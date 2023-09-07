@@ -23,5 +23,5 @@ ALTER TABLE `daily_rewards`
 -- AUTO_INCREMENT for table `daily_rewards`
 --
 ALTER TABLE `daily_rewards`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=38;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;
 COMMIT;
